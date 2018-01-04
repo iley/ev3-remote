@@ -1,0 +1,10 @@
+.console {
+  background-color: cornsilk;
+  border: 1px solid blue;
+  font-family: "Lucida Console", Monaco, monospace;
+  width: 80%;
+  height: 20em;
+  overflow: scroll;
+  margin-left:auto;
+  margin-right:auto;
+}
