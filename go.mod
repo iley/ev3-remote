@@ -1,5 +1,5 @@
 module github.com/iley/ev3-remote
 
-go 1.20
+go 1.23.0
 
-require golang.org/x/net v0.32.0
+require golang.org/x/net v0.38.0
